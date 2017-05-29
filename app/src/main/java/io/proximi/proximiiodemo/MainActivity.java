@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
     private Toolbar toolbar;
 
     private static final String TAG = "ProximiioDemo";
-    private static final String AUTH = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6IjYyZDIzNjI5LTc0M2EtNDAxNi04MmZmLWVkZTk5YzUwMGNiNSIsInR5cGUiOiJhcHBsaWNhdGlvbiIsImFwcGxpY2F0aW9uX2lkIjoiNjJkMWQ0YzMtNDZjZC00ODI1LTgzYzAtOGNhYjNlZDc1Zjg3In0.svAdBL-z88rEB4vzTUwjndBfWQl-ShpQ4GrnuzePhnQ"; // TODO: Replace with your own!
+    private static final String AUTH = "PROJECT_KEY"; // TODO: Replace with your own!
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
